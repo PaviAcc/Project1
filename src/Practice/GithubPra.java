@@ -9,5 +9,11 @@ System.out.println("summer");
 	private void tc02() {
 System.out.println("Hot ");
 	}
+	
+	private void tc03() {
+		System.out.println("Temperature");
+
+	}
+
 
 }
